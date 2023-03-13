@@ -2,5 +2,5 @@
 
 ```sql
 SELECT usename
-FROM pg_catalog.pg_user
+FROM pg_catalog.pg_user;
 ```
